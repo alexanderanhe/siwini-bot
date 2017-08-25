@@ -1,0 +1,7 @@
+.DS_STORE
+
+#Deps
+node_modules/
+
+# Environment files
+.env
