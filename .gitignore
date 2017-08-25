@@ -2,6 +2,7 @@
 
 #Deps
 node_modules/
+platforms/
 
 # Environment files
 .env
